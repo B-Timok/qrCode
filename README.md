@@ -25,8 +25,8 @@ This challenge required me to make a qr code component that matched the design p
 
 ### Links
 
-- Solution URL: [github.com/B-Timok/qrCode/tree/main](https://github.com/B-Timok/qrCode/tree/main)
-- Live Site URL: [b-timok.github.io/qrCode/](https://b-timok.github.io/qrCode/)
+- Solution URL: [Solution URL](https://github.com/B-Timok/qrCode/tree/main){:target="_blank"}
+- Live Site URL: [Live Site URL](https://b-timok.github.io/qrCode/){:target="_blank"}
 
 ## My process
 
