@@ -15,9 +15,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
+
+This challenge required me to make a qr code component that matched the design provided by FrontEnd Mentor. I used only basic HTML and CSS to complete this challenge.
 
 ### Screenshot
 
